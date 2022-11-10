@@ -1,0 +1,20 @@
+{
+  "spandana": {
+    "roll": 1204,
+    "maths": 78,
+    "physics": 94,
+    "chemistry": 89
+  },
+  "neeraja": {
+    "roll": 1243,
+    "maths": 56,
+    "physics": 78,
+    "chemistry": 67
+  },
+  "nani":{
+    "roll": 1248,
+    "maths": 45,
+    "physics": 65,
+    "chemistr": 77
+  }
+}
